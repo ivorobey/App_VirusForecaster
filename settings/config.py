@@ -4,7 +4,7 @@ import os
 
 
 ## App settings
-name = "Virus vorobey"
+name = "Virus Infopulsee"
 
 host = "0.0.0.0"
 
