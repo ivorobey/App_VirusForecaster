@@ -4,7 +4,7 @@ import os
 
 
 ## App settings
-name = "Virus spark"
+name = "Virus ssss"
 
 host = "0.0.0.0"
 
