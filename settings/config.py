@@ -4,7 +4,7 @@ import os
 
 
 ## App settings
-name = "Virus ssasdasdss"
+name = "Virus INFOPULSE"
 
 host = "0.0.0.0"
 
