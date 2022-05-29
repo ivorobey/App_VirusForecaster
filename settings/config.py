@@ -4,7 +4,7 @@ import os
 
 
 ## App settings
-name = "Virus ssss"
+name = "Virus ssasdasdss"
 
 host = "0.0.0.0"
 
