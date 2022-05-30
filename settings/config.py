@@ -4,7 +4,7 @@ import os
 
 
 ## App settings
-name = "HI Infopulsee"
+name = "Hello Infopulsee"
 
 host = "0.0.0.0"
 
