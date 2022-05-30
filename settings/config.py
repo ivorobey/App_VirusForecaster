@@ -4,7 +4,7 @@ import os
 
 
 ## App settings
-name = "Virus Infopulsee"
+name = "HI Infopulsee"
 
 host = "0.0.0.0"
 
