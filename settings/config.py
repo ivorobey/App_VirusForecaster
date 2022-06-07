@@ -4,7 +4,7 @@ import os
 
 
 ## App settings
-name = "Hello lll"
+name = "Hello Zaelab"
 
 host = "0.0.0.0"
 
