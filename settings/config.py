@@ -4,7 +4,7 @@ import os
 
 
 ## App settings
-name = "Hello ProgramAce !"
+name = "Hello ProgramAce1111 !"
 
 host = "0.0.0.0"
 
